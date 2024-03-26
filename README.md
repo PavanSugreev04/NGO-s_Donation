@@ -49,6 +49,7 @@ Following are some of the new features and learning encountered while creating t
 - <b>Social sharing:</b><br> The website would have social sharing buttons that allow donors to share their donation on social media, increasing awareness and encouraging others to give.
 
 - <b>Volunteer opportunities:</b><br> The website would provide information on volunteer opportunities, including how to sign up and what kind of help is needed.
+<br>
 
 
 Overall, the above mentioned repository could have a range of features designed to make donating easy, secure, and meaningful, while also providing information and opportunities for volunteers to get involved in the welfare foundation's work.
@@ -59,25 +60,11 @@ Overall, the above mentioned repository could have a range of features designed 
 
 
 ### Demo
-<p align="justify">
-  The Demo of this working project can be found on <br>
-  <a href="https://ngo-s-donation.vercel.app/"</a>
-</p>
+This Web Page is Deployed By Vercel(https://ngo-s-donation.vercel.app/)
 
 
 <br><br>
 <!-- ................................................................................................................................. -->
-
-
-
-### Website Interface <br><br>
-![GUI for this Project](/img/demo.png)
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
 
 
 ### Technology Stack
@@ -89,22 +76,6 @@ Follwing technologies have been used at the core of this application to make it 
 - JavaScript
 - Bootstrap
 
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
-### Advancement
-
-> Nothing Recommended Yet
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
-### Deployment Details
-
-The website is deployed using the free hosting provided by **Vercel**
 
 
 
